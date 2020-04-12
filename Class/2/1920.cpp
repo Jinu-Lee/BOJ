@@ -9,6 +9,7 @@ int main()
     int N, M;
     scanf("%d", &N);
     vector<int> v(N);
+    printf("%d ",sizeof(long int*));
 
     for (int i = 0; i < N; i++)
         scanf("%d", &v[i]);

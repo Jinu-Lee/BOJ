@@ -8,7 +8,7 @@
             "name": "(gdb) 시작",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/NPC/Week 1/1541.exe",
+            "program": "${workspaceFolder}/NPC/Week 2/1915.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
