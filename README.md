@@ -1,2 +1,2 @@
-# PS
-Problem Solving 
+# Practice
+코딩 
