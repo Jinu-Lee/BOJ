@@ -1,5 +1,0 @@
-1. DataFrame 관련
-
-shape       : dataframe의 차원
-describe    : dataframe에 대한 간단한 요약 (개수, 평균, 표준편차, 최대, 최소 등)
-value_count : 각 값 별로 count
