@@ -211,13 +211,10 @@ dmypy.json
 .vscode/launch.json
 .vscode/settings.json
 .vscode/c_cpp_properties.json
+.vscode/tasks.json
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
 
-<<<<<<< HEAD
 # End of https://www.gitignore.io/api/c,c++,java,python,visualstudiocode
-=======
-# End of https://www.gitignore.io/api/c,c++,java,python,visualstudiocode
->>>>>>> 164819ed32af024a0963771633efc8f9f3ea3519
