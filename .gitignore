@@ -213,6 +213,8 @@ dmypy.json
 # Ignore all local history of files
 .history
 
+tutoring/*
+
 clean.sh
 
 # End of https://www.gitignore.io/api/c,c++,java,python,visualstudiocode
